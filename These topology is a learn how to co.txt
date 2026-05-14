@@ -1,0 +1,11 @@
+These topology is a learn how to configure basic router though-put latency;
+
+In these topology I designed Two PC'S and Two Switches;
+I configured a router;
+I provided Ip address within the same subnet for each network domains;
+I configured secret password for telnet during the lab;
+A loopback address and default gateway was customed created for both telnet and ping intervals on the network;
+
+Keywords : sh-run; sh-startup-config; sh-int-vlan1; copy running-config startup-config;
+
+N:B = Simulation with both ARP and ICMP Packets was done.
